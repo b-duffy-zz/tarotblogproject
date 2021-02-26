@@ -86,7 +86,7 @@ div.extra-info {
 }
 
 .side-panel {
-    width: 200px;
+    width: 150px;
     margin: auto;
     padding: 5px 15px 15px 15px;
     background-color: #22224f;
@@ -103,6 +103,7 @@ div.extra-info {
 }
 
 .side-panel form {
+    width: 75px;
     margin: auto;
 }
 
