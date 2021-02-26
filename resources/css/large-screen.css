@@ -28,7 +28,7 @@
         height: 150px;
         margin: 30px 20px;
         padding: 5px 15px 15px 15px;    
-        text-align: unset;
+        text-align: left;
     }
 
     .content-library {

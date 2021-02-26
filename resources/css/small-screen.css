@@ -81,7 +81,7 @@
     border: none;
 }
 
-div.extra-info {
+nav.extra-info {
     display: flex;
     flex-direction: column;
 }
@@ -134,4 +134,12 @@ footer {
     margin: 10px 0px;
     color: #22224f;
     border-radius: 5px;
+}
+
+footer i{
+    margin: 5px;
+}
+
+footer a {
+    color:#22224f;
 }
