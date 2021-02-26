@@ -83,12 +83,13 @@
 
 div.extra-info {
     display: flex;
+    flex-direction: column;
 }
 
 .side-panel {
-    width: 150px;
-    margin: auto;
-    padding: 5px 15px 15px 15px;
+    width: auto;
+    margin: 10px;
+    padding: 0px 15px 15px 5px;
     background-color: #22224f;
     color: #fbf8ee;
     border-radius: 8px;
@@ -103,8 +104,7 @@ div.extra-info {
 }
 
 .side-panel form {
-    width: 75px;
-    margin: auto;
+    width: 50px;
 }
 
 .subscribe {
